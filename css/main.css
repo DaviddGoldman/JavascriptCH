@@ -30,7 +30,8 @@ h3 {
   margin: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 30px;
-  text-align: center; }
+  text-align: center;
+  padding-bottom: 10em; }
 
 #valor {
   border-radius: 30px;
