@@ -9,7 +9,7 @@ function convertir(){
     }
     else if(document.getElementById("dos").checked){
         resultado = valore / euro;
-        alert("El cambio de Pesos Argentinos a Euro es: $" + resultado.toFixed(2));
+        alert("El cambio de Pesos Argentinos a Euro es: €" + resultado.toFixed(2));
     }
     else{
         alert("tienes que completar todos los requerimientos")
